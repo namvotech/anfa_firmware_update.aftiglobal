@@ -1,0 +1,1 @@
+# anfa_firmware_update.aftiglobal
